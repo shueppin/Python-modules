@@ -1,8 +1,9 @@
 # Python-modules
 
 This is a collection of some of my own python modules.  
+It is not guaranteed that they are always completely bug-free, but they should work without problems.  
 
-### Main Topics
+### Topics
 - <a href='#minecraft'>Minecraft</a>
 - <a href='#pyqt'>PyQt</a>
 - <a href='#other'>Other</a>
